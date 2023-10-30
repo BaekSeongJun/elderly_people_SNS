@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// git commit 연습
+// git commit 연습 asdffasdf
 void main() {
   runApp(const MyApp());
 }
